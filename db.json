@@ -1,10 +1,4 @@
 {
-  "posts": [
-    {
-      "id": "joe",
-      "title": "hello"
-    }
-  ],
   "tokens": [
     {
       "id": "mcp",
