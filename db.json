@@ -5,6 +5,28 @@
       "title": "hello"
     }
   ],
+  "tokens": [
+    {
+      "lastSuccessIpAddress": "66.48.12.67",
+      "inactiveExpirationTime": "None",
+      "failedLoginAttempts": 0,
+      "userTenantUuid": "fd02d6a1-4463-4b90-85d9-7b207c1d8c12",
+      "loginDetail": {
+        "ipAddress": "10.125.48.220",
+        "userAgent": "python-requests/2.22.0",
+        "sessionId": "ad97876d-9e3a-48cf-bc93-0688f783c541",
+        "sessionType": "Machine",
+        "time": "2019-09-18T21:29:54Z"
+      },
+      "timeout": 2592000,
+      "token": "eac9c337c2600f42a733",
+      "lastSuccessLogin": "2019-09-18 21:06:26+00:00",
+      "isSuccessful": "True",
+      "createdTime": "2019-09-18T21:29:54Z",
+      "user": "5756cedf-ab55-4cb1-93f5-df622aef835c",
+      "radiusState": ""
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
